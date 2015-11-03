@@ -2,6 +2,7 @@ name: nicethings
 favicon: null
 layout_spectrum: 0.75069
 typography_spectrum: 0.7739544627256691
+title: Nice Things
 cta:
   domain: null
   bucket: null
