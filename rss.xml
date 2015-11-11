@@ -4,7 +4,7 @@
         <description><![CDATA[Nice Things]]></description>
         <link>https://thegrid.ai/nicethings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 22:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 17:30:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nicethings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Visual History of Kate Upton]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.maxim.com/women/models/article/visual-history-kate-upton-2015-10</link>
             <guid isPermaLink="false">0e8b228c-e604-4b42-b05e-bd1aa264a3a9</guid>
             <pubDate>Tue, 10 Nov 2015 22:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cage!]]></title>
+            <description><![CDATA[<article><h1>Cage!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bb0e37f-26bd-4359-ae9d-1cc5aa4ed40a.png"></article>]]></description>
+            <link>https://thegrid.ai/nicethings/cage/index.html</link>
+            <guid isPermaLink="false">71382c1b-a83c-4a3a-b41d-aaaf53bd8f12</guid>
+            <pubDate>Wed, 11 Nov 2015 17:30:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Woman With A Tool: Thar She Blows | Maxim]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://www.maxim.com/sites/default/files/editor/2015/10/hot10_sarahdumont_article2.jpg">]]></description>
             <link>https://thegrid.ai/nicethings/2e73d722-0bca-4608-b6f3-b4b9907baae4/index.html</link>
             <guid isPermaLink="false">2e73d722-0bca-4608-b6f3-b4b9907baae4</guid>
-            <pubDate>Tue, 03 Nov 2015 21:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ten Sexiest Cars You Can Buy Right Now]]></title>
-            <description><![CDATA[<article><h1>The Ten Sexiest Cars You Can Buy Right Now</h1><p>Automobile taxonomy is a mess. For one, brands are dropping model names faster than Aziz Ansari. Cadillac once sold Eldorados, Fleetwoods, and Coupe Devilles; it now offers CTSs, ATSs, and SRXs (the Escalade is the only Cadillac to get name-checked regularly in hip-hop, which may or may not be the reason it's still called an Escalade).</p><img src="http://www.maxim.com/sites/default/files/styles/manual_cropped_images/main_rectangle_article/public/editor/2014/10/sexycars_astonmartinvanquish_article2.jpg"></article>]]></description>
-            <link>http://www.maxim.com/cars/exotics/article/ten-sexiest-cars-you-can-buy-right-now</link>
-            <guid isPermaLink="false">9800e2cf-9209-4b42-a80c-87af6fda5b3a</guid>
             <pubDate>Tue, 03 Nov 2015 21:58:51 GMT</pubDate>
         </item>
     </channel>
