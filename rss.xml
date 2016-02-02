@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Nice Things]]></title>
-        <description><![CDATA[Nice Things]]></description>
+        <title><![CDATA[Life is nice]]></title>
+        <description><![CDATA[Life is nice]]></description>
         <link>https://thegrid.ai/nicethings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 20:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 20:33:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nicethings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life is beautiful]]></title>
+            <description><![CDATA[<article><h1>Life is beautiful</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c1eb29bb12ed2208e4bf6fdf2f085ea42177898.jpg"></article>]]></description>
+            <link>http://www.maxim.com/women/elsa-hosk-slideshow-2016-1#&amp;gid=ci01e39637b001efe2&amp;pid=0216-mx-ft_elsa07jpg</link>
+            <guid isPermaLink="false">0af528c5-5f58-49eb-a427-4a3b3c310b05</guid>
+            <pubDate>Tue, 02 Feb 2016 20:32:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Visual History of Kate Upton]]></title>
             <description><![CDATA[<article><h1>A Visual History of Kate Upton</h1><p>From bagging magazine covers to fronting ad campaigns, Kate Upton is probably one of the most recognizable models around. With perfect cheeks that no doubt helped in launching her lingerie and swim line, the star is a bombshell we never tire of seeing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/403e89e7df92d2523c6db71913b8ddebad597ebe.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Clint Eastwood's Daughter Is the Triple Threat We Never Knew We Needed]]></title>
-            <description><![CDATA[<article><h1>Clint Eastwood's Daughter Is the Triple Threat We Never Knew We Needed</h1><p>Actress. Model. Eastwood.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2da2a4a632c9b122b0635e9b15f2276602d56177.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Clint Eastwood's Daughter Is the Triple Threat We Never Knew We Needed</h1><p>Actress. Model. Eastwood.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2bcbd4f3c54a5df27e430e84d7991547805efe1.png"></article>]]></description>
             <link>http://www.maxim.com/women/francesca-eastwood-instagram-sundance-2016-01</link>
             <guid isPermaLink="false">810e4ac9-a643-439d-a3e9-04113199db28</guid>
             <pubDate>Tue, 02 Feb 2016 20:30:14 GMT</pubDate>
@@ -40,13 +47,6 @@
             <link>http://www.maxim.com/women/women-cars-models-lithuainia-2016-01</link>
             <guid isPermaLink="false">42eca145-a58d-4e09-a670-2cd5796a52c5</guid>
             <pubDate>Thu, 28 Jan 2016 18:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://a4.files.maxim.com/image/upload/c_limit,cs_srgb,dpr_2.0,h_2500,q_40,w_2500/MTM2MTE3NTQzMTY0MjQzOTM4.jpg">]]></description>
-            <link>https://thegrid.ai/nicethings/0af528c5-5f58-49eb-a427-4a3b3c310b05/index.html</link>
-            <guid isPermaLink="false">0af528c5-5f58-49eb-a427-4a3b3c310b05</guid>
-            <pubDate>Thu, 28 Jan 2016 18:25:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alessandra Ambrosio Is Maxim's December Cover Girl]]></title>
