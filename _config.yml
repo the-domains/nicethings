@@ -2,6 +2,7 @@ name: beautifullife
 favicon: null
 layout_spectrum: 0.67854
 typography_spectrum: 0.50995
+style: the-composer
 title: Beautiful Life
 collections:
   - index:
