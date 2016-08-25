@@ -44,4 +44,7 @@ collections:
       number: 10
 title: Beautiful Life
 description: breathe and relax
-purpose: []
+purpose:
+  - type: external
+    url: www.maxim.com
+    label: Visit Maxim
