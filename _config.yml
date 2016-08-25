@@ -48,3 +48,6 @@ purpose:
   - type: external
     url: www.maxim.com
     label: Visit Maxim
+  - type: contact
+    url: 'tel:1-418-222-3333'
+    label: Call me if you're in this site
