@@ -29,6 +29,9 @@ navigation:
   - name: Maxim
     url: 'http://www.maxim.com/'
     type: external
+  - name: Speechless...
+    id: 9cd85c48-98b3-47e2-81fd-d0445adff035
+    type: content
 favicon: null
 collections:
   - index:
