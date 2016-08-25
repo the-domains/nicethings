@@ -25,7 +25,6 @@ cta:
   domain: null
   bucket: null
   version: null
-style: the-composer
 navigation:
   - name: Maxim
     url: 'http://www.maxim.com/'
@@ -45,8 +44,4 @@ collections:
       number: 10
 title: Beautiful Life
 description: breathe and relax
-purpose:
-  - id: 90016032-6e29-40ee-888c-5d15f33eea37
-    type: external
-    value: www.maxim.com
-    label: Visit Maxim
+purpose: []
