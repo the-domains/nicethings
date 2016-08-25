@@ -48,3 +48,6 @@ purpose:
   - type: external
     url: www.maxim.com
     label: Visit Maxim
+  - type: contact
+    url: 'tel:1-418-111-1111'
+    label: Call me
